@@ -9,7 +9,7 @@ Backend Development (Django/Flask)
 Git & GitHub workflows
 
 💻 Tech Stack:
-Python 🐍 | C/C++ | HTML/CSS | SQL
+Python 🐍 | C/C++ | HTML/CSS 
 
 Familiar with: Git, GitHub, VS Code
 
